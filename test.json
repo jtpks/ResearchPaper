@@ -1,0 +1,7 @@
+{
+    "csvs" : "data1_topk.csv, data1.csv, data2_topk.csv, data2.csv, data3_topk.csv, data3.csv",
+    "label" : "DND",
+    "name" : "Name",
+    "test_size" : 0.3,
+    "infer_models" : "RandomForest"
+}
