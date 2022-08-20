@@ -1,0 +1,3 @@
+exec(open('test.py').read())
+IDLE 
+
