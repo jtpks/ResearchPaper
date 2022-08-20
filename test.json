@@ -1,7 +1,14 @@
 {
-    "csvs" : "data1_topk.csv, data1.csv, data2_topk.csv, data2.csv, data3_topk.csv, data3.csv",
+    "csvs" : "baseline.csv, data1.csv",
+    "csvs2" : "baseline.csv, raw.csv, data1_topk.csv, data1.csv, data2_topk.csv, data2.csv, data3_topk.csv, data3.csv",
+    "csv2" : "data3_topk.csv",
     "label" : "DND",
     "name" : "Name",
     "test_size" : 0.3,
-    "infer_models" : "RandomForest"
+    "sample": 1,
+    "plot_sample_data": 0,
+    "plot_final": 0,
+    "debug": 0,
+    "weights": 0,
+    "normalize": 0
 }
